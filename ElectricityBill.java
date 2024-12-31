@@ -1,3 +1,7 @@
+// Author : Samridhi Gupta
+// Date : 31/12/24
+// Project : Electricity Bill
+
 import java.util.Scanner;
 
 public class ElectricityBill {
